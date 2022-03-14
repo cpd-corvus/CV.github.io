@@ -1,19 +1,22 @@
 ## Jonas Lebert
 
-You can use the [editor on GitHub](https://github.com/cpd-corvus/CV.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my personal Portfolio and CV Page.
+
+I have 6+ years of experience administrating and using GNU+Linux, Fussybox+Linux, FreeBSD, OpenBSD as a Systemadminstrator, and Virtualisation Software like Virtualbox, Qmenu and KVM, for Tektrum GmbH and Inditech GmbH †. I am a supporter of the
+Free Software Foundation and subscribe to the ideas of free and open software. Since i've been young i have been using and tinkering with GNU+Linux distributions. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### References
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+### Certificates
+
 
 - Bulleted
 - List
